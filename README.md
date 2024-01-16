@@ -4,6 +4,7 @@ I'm a passionate Java Developer with a focus on Spring Boot, Data Engineering, a
 
 ## 🔧 Technologies & Tools
 - Java (Spring Boot)
+- React JS & Angular JS
 - Data Engineering
 - Databases (mention specific databases you've worked with)
 - Cloud
