@@ -1,10 +1,18 @@
-### Hi there This is Maneesh Devanaboyina. See below to know more about me:)
-- 🔭 I’m currently working on Repositories
-- 🌱 I’m currently learning Webapplications
-- 👯 I’m looking to collaborate on GIT HUB
-- 🤔 I’m looking for help with programming
-- 💬 Ask me about anything. I will try find if I don't know.
-- 📫 How to reach me: maneesh.d123@gmail.com(reach me out to the mailID)
-- 😄 Pronouns: He
-- ⚡ Fun fact: Always cool
+# Hi there, I'm Maneesh! 👋
 
+I'm a passionate Java Developer with a focus on Spring Boot, Data Engineering, and Databases. Over the years, I've successfully delivered projects that leverage these technologies to create robust and efficient solutions.
+
+## 🔧 Technologies & Tools
+- Java (Spring Boot)
+- Data Engineering
+- Databases (mention specific databases you've worked with)
+- Cloud
+
+
+## 📬 Get in Touch
+
+- Email: devanaboyinamaneesh@gmail.com
+
+Feel free to reach out if you want to connect, collaborate, or discuss anything related to Java development, data engineering, or technology in general.
+
+Happy coding! 🚀
